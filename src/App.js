@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 
 import Header from "./Header/Header";
 import Horizontal from "./Horizontal/Horizontal";
@@ -6,7 +6,6 @@ import Horizontal from "./Horizontal/Horizontal";
 import Vertical from "./Vertical/Vertical";
 
 function App() {
-  const [data, setData] = useState([]);
   const books = [
     {
       title: "The Glass Hotel",

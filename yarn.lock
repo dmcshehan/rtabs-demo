@@ -10140,6 +10140,13 @@ rsvp@^4.8.4:
   resolved "https://registry.yarnpkg.com/rsvp/-/rsvp-4.8.5.tgz#c8f155311d167f68f21e168df71ec5b083113734"
   integrity sha512-nfMOlASu9OnRJo1mbEk2cz0D56a1MBNrJ7orjRZQG10XDyuvwksKbuXNp6qa+kbn839HwjwhBzhFmdsaEAfauA==
 
+rtabs@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/rtabs/-/rtabs-1.1.2.tgz#3c7b1574f6ea1945264f9c0c4bbcefa7572d22f8"
+  integrity sha512-CJFVP+QOb+f5KdO/Mpn101229O34Y3E37FIgVjCo6HNbrG1SA1d1v/A342aMeKIM49suf86gfAzi81/pohpojw==
+  dependencies:
+    react "^16.13.1"
+
 run-async@^2.2.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/run-async/-/run-async-2.3.0.tgz#0371ab4ae0bdd720d4166d7dfda64ff7a445a6c0"
